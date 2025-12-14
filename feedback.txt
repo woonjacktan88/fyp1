@@ -1,0 +1,291 @@
+1.1 Project Objectives 
+Your project objectives are generally clear and relevant. 
+However, there are several areas where improvement is needed to strengthen clarity and alignment with FYP 
+expectations. 
+Some objectives are descriptive rather than measurable. You should revise the objectives so that each one clearly 
+indicates what will be designed, implemented, or evaluated by the end of the project. For example, consider 
+stating how success will be measured, such as system accuracy, functionality completion, or user evaluation. 
+The objectives list includes many system features, but they are not clearly distinguished between core objectives 
+and supporting features. You are encouraged to prioritise the main objectives that directly address the problem 
+of lack of personalisation, and treat features such as wishlist or ratings as supporting elements. 
+The AI-related objective should be more specific in scope. You should clarify whether the AI recommendation 
+focuses on rule-based logic, machine learning, or a hybrid approach, and ensure that this scope remains 
+realistic for an FYP timeline. 
+1.2 Project Background 
+The background section is well written and supported by statistics, but it can be improved further in the following 
+ways: 
+The problem statement is implied rather than explicitly stated. You should clearly summarise the core problem in 
+one focused paragraph, for example, the difficulty users face in selecting suitable clothing due to lack of body 
+and style based personalisation. 
+While industry statistics are provided, the link between these statistics and your proposed solution can be 
+strengthened. You should explicitly explain how high cart abandonment or return rates justify the need for an 
+AI-based recommendation system. 
+The background currently discusses many issues together. You are advised to narrow the focus towards the most 
+critical problem that your system aims to solve, rather than covering too many general e-commerce challenges. 
+1.3 Advantages and Contributions 
+This section is structured well, but improvements are needed to meet rubric expectations for contribution and 
+impact. 
+1.3.1 Advantages for Consumers 
+The advantages listed are reasonable, but they are mostly general benefits. You should strengthen this section by 
+explaining how your system specifically delivers these advantages, for example, how body measurements 
+directly reduce sizing mismatch. 
+Consider adding a short explanation of who the target users are, such as young adults, frequent online shoppers, 
+or fashion-conscious users, to make the benefits more concrete. 
+1.3.2 Contributions to the Industry 
+The contribution to industry is stated, but it would benefit from clear justification of practicality. You should briefly 
+explain whether such a system could realistically be adopted by fashion retailers, especially small or medium 
+businesses. 
+You are encouraged to relate the contribution to current industry trends, such as AI-driven personalisation, 
+data-driven retail, or mobile commerce growth. 
+1.3.3 Contributions to Research 
+The research contribution is relevant, but it can be improved by being more specific. You should clearly state what 
+aspect of recommendation systems your project contributes to, for example, the combination of physical 
+attributes and cultural style preferences. 
+Consider briefly explaining how this approach differs from existing studies discussed later in the Literature Review, 
+to strengthen the academic value of the project. 
+1.5 Project Team and Organization 
+This section is clear but can be strengthened slightly. 
+Since this is an individual project, you should briefly emphasise your personal responsibility and independent role 
+in planning, development, and decision making, rather than focusing mainly on structure. 
+1.6 Chapter Summary and Evaluation 
+The summary is adequate, but improvements are recommended. 
+The evaluation part is mostly descriptive. You should strengthen it by briefly reflecting on why the proposed solution is 
+suitable and feasible, rather than restating earlier content. 
+Consider linking this chapter more clearly to the next chapter by explaining why a literature review is necessary to 
+support your proposed approach. 
+2.1 Introduction 
+The introduction explains what the chapter covers, but it can be improved by clearly stating the purpose of the 
+literature review in relation to your project. You should explicitly mention that this chapter helps to justify the problem, 
+support the proposed AI solution, and guide your design decisions. 
+You are encouraged to briefly outline how the chapter is organised, for example by explaining that it first reviews 
+fashion recommendation systems, followed by AI techniques, and then related commercial systems. 
+2.2 Related Studies on Fashion Recommendation Systems 
+The studies cited are relevant, but the discussion is mostly descriptive. You should strengthen this section by 
+comparing the studies, not just describing them one by one. For example, explain how one study improves on another, 
+or why certain approaches are more suitable for fashion applications. 
+You mention that few systems combine body measurements with stylistic preferences. This is an important point, but 
+it should be clearly linked to your project gap. You should explicitly state that this limitation directly motivates your 
+proposed system. 
+Consider adding one or two more recent or well known studies to show broader coverage of the domain, especially 
+studies that focus on mobile fashion applications or real world deployment. 
+2.3 Artificial Intelligence and Machine Learning in Fashion 
+This section introduces AI techniques appropriately, but the connection to your chosen approach needs to be clearer. 
+You should explain why certain techniques such as CNNs or hybrid models are mentioned even if they are not fully 
+implemented in your project. 
+When you state that a pre trained model will be used, you should justify this decision more clearly, for example in terms 
+of time constraints, dataset availability, or computational resources. 
+The table comparing algorithms is useful, but you should refer to the table explicitly in your text and explain how it 
+supports your design choice. 
+2.4 E-Commerce Application Features and Design 
+The discussion of existing e-commerce features is relevant, but it remains high level. You should explain how these 
+features influence your own system design decisions, such as UI simplicity, mobile first design, or feature prioritisation. 
+When citing user engagement statistics, you should clearly link them to your proposed features, such as AI 
+recommendations, ratings, or feedback mechanisms. 
+You are advised to briefly discuss user trust and usability, as these are important factors when introducing AI based 
+recommendations. 
+2.5 Related Systems Comparison 
+The comparison table is clear, but the analysis after the table is too brief. You should explain more clearly why existing 
+systems fail to meet user needs and how your system addresses these weaknesses. 
+Some limitations listed are general. You should make them more specific, for example by explaining exactly what type 
+of personalisation is missing in existing apps. 
+You are encouraged to justify why the proposed system is realistic and feasible, not just more advanced. 
+2.6 Summary and Evaluation 
+The summary restates earlier points but lacks critical evaluation. You should briefly explain how the reviewed studies 
+influenced your final design decisions, such as the choice of a hybrid recommendation model. 
+Consider clearly restating the research and technical gap that your project addresses, and how this gap supports the 
+feasibility of your proposed solution. 
+You may also include a short transition statement explaining how this literature review informs the methodology and 
+system design in the next chapter. 
+2.7 Reference 
+The references used are relevant, but the number of sources is limited. You should consider adding more academic 
+and technical sources to demonstrate stronger research depth. 
+Ensure that all in text citations match the reference list exactly and that the formatting follows the latest APA style 
+consistently. 
+3.1 Introduction 
+The introduction explains what the chapter contains, but it can be improved by clearly stating why this methodology is 
+suitable for your specific project. You should briefly explain how this chapter ensures that the proposed solution is 
+feasible and well planned. 
+Consider adding a short sentence to link this chapter with Chapter 2, explaining that the methodology and 
+requirements are derived from the gaps and decisions identified in the literature review. 
+3.2.1 Selected Development Model: Agile Development 
+The choice of Agile is appropriate, but the explanation is too general. You should clearly explain how Agile will be 
+applied in your project, not just what Agile is. 
+You are advised to explain how many iterations or sprints are expected, what happens in each sprint 
+The methodology description should clearly distinguish what will be completed in Project 1 such as analysis and 
+design, and what will be implemented in Project 2. 
+3.2.2 Advantages of Agile for This Project 
+The advantages listed are relevant, but they are generic. You should strengthen this section by directly linking each 
+advantage to your project, for example how Agile supports AI model refinement or UI improvement. 
+You may also explain how Agile helps to manage risk and uncertainty, especially when dealing with AI components and 
+data availability. 
+3.4.1 Use Case Diagram 
+The identified actors are reasonable, but you should justify the inclusion of the Admin actor, especially if the admin 
+module is optional or limited in scope. 
+The use cases listed are clear, but you should ensure that all use cases are within the scope of Project 2 
+implementation, and clearly mark any that are future enhancements. 
+You are encouraged to explain how the use case diagram supports system completeness, rather than only listing the 
+functions. 
+3.4.2 Data Flow Diagram (DFD) – Level 0 
+The process description is understandable, but it would benefit from clearer explanation of data inputs and outputs 
+. 
+You should explicitly mention what data is stored, where it is stored, and how it flows back to the user. 
+Consider briefly explaining why Level 0 DFD is sufficient at this stage and whether deeper levels will be developed later. 
+3.5.1 Functional Requirements 
+The functional requirements are mostly clear, but some are too broad. You should revise them so that each 
+requirement describes one clear system function. 
+Ensure that all functional requirements are testable, meaning it should be possible to verify whether each requirement 
+is met. 
+You should also check for overlap between requirements, especially between browsing, recommendation, and ordering 
+functions. 
+3.5.2 Non-Functional Requirements 
+The non functional requirements are relevant, but they need stronger justification. For example, you should explain why 
+a response time of three seconds is acceptable for this application. 
+Some requirements such as reliability and scalability are high level. You are encouraged to relate them to realistic FYP 
+constraints, such as prototype scale or limited user base. 
+3.6 Chapter Summary and Evaluation 
+The summary restates earlier content but lacks critical reflection. You should briefly explain why this methodology 
+and requirement set increases the feasibility of the project. 
+Consider adding a short statement on potential risks, such as limited AI training data or integration challenges, and 
+how the methodology helps manage them 
+You may also strengthen the transition by explaining how this chapter directly informs the system design in 
+Chapter 4. 
+4.1.1 System Workflow Steps 
+The workflow description is detailed and easy to follow. However, it is very long and procedural, which makes it 
+read more like a user manual than a design explanation. You should condense repetitive steps and focus on 
+key system interactions that demonstrate design logic. 
+Some steps describe obvious actions, such as opening the app or clicking buttons. You may shorten these parts 
+and instead emphasise decision points, such as when AI 
+recommendations are triggered or when data is written to the database. 
+You should briefly explain why the workflow is designed in this order, for example why AI recommendation is 
+optional and how it integrates with normal browsing. 
+4.1.2 Workflow Diagram (Description) 
+The explanation of the workflow diagram is clear, but it should be more analytical. You should explain how the 
+diagram helps validate system completeness and user flow consistency 
+. 
+Consider explicitly stating what the diagram proves, such as showing that both AI assisted and manual browsing 
+paths lead to the same checkout process 
+You may also mention any assumptions or limitations of the workflow at this stage, such as simulated payment or 
+limited tracking functionality 
+4.2.1 UI Wireframe Description 
+The UI descriptions are clear, but they are mostly descriptive. You should explain design decisions, such as why certain 
+features are placed on the Home Screen or why AI recommendations are easily accessible. 
+You are encouraged to link UI elements to usability principles, such as reducing cognitive load, improving navigation 
+efficiency, or supporting mobile first design. 
+It would strengthen this section if you clarify whether the wireframes are low fidelity or high fidelity, and whether they 
+are final or subject to iteration in Project 2. 
+4.3.1 Entity Relationship Diagram (ERD) 
+The ERD is comprehensive, but you should include a short paragraph explaining how the ERD supports system 
+requirements, not just listing entities and attributes. 
+Some entities, such as Payment and Delivery, are well defined, but you should clarify that they are simulated at this 
+stage to avoid confusion about real world payment integration. 
+You should briefly justify key relationships, for example why Order and Order_Details are separated, or why 
+AIRecommendation is stored as a separate entity. 
+4.3.2 Class Diagram 
+The class diagram aligns well with the ERD, but you should explicitly explain how the classes map to system modules, 
+such as UI layer, backend logic, or AI component 
+. 
+Some methods are listed but not explained. You should briefly describe what each major method does, especially for 
+AIRecommendation and Order related classes. 
+Ensure consistency between class attributes and database fields, and explain any intentional differences. 
+4.3.3 Database Schema 
+The schema is detailed, but the explanation focuses heavily on structure rather than design reasoning. You should 
+explain why this schema supports scalability, data integrity, or maintainability. 
+You should also mention data normalisation considerations, especially where multiple tables are used to reduce 
+redundancy. 
+Clarify how sensitive data, such as passwords and payment information, is protected, even in a simulated 
+environment. 
+4.4.1 Layers 
+The layered architecture is appropriate, but the explanation can be strengthened by explicitly linking each layer to 
+functional requirements. 
+You should clarify the boundary between frontend and backend responsibilities, especially for AI processing and 
+authentication. 
+Consider briefly discussing why a layered architecture was chosen over other architectures, such as monolithic or 
+microservices. 
+4.4.2 Architecture Diagram 
+If an architecture diagram is included, ensure it is clearly labelled and referenced in the text. 
+You should explain how data flows between components in the diagram, rather than only describing each component 
+in isolation. 
+Mention any assumptions, such as internet connectivity or cloud availability. 
+4.5.1 Login Validation Process 
+The login process is clear, but it would benefit from a short explanation of error handling, such as invalid credentials or 
+network failure. 
+You should also explain why Firebase Authentication was chosen, linking it to security, reliability, or development 
+efficiency. 
+4.5.2 AI Recommendation Process 
+This is a strong section, but it needs clear justification of design choices. You should explain why height, weight, and 
+style were selected as primary inputs. 
+Consider briefly discussing limitations, such as accuracy dependency on dataset size or simplified body modelling. 
+You may also explain how this process supports future improvement, such as adding learning from user feedback. 
+4.5.3 Simulated Payment Process 
+You should clearly state that this is a simulated process and explain why real payment integration is out of scope for 
+FYP. 
+Explain how simulation still supports end to end system validation, even without real transactions. 
+4.6 Algorithm / Model Design 
+The algorithm design is detailed, You should clarify which parts are conceptual design and which parts will be fully 
+implemented in Project 2. 
+You should justify parameter choices, such as weights and layer sizes, at a conceptual level, even if they are not final. 
+Consider explaining how this model design remains feasible within FYP constraints. 
+4.7 Security Design 
+The security measures are well listed, but they would benefit from stronger linkage to identified risks, such as data 
+leakage or unauthorised access. 
+You should clarify which security features are handled by third party services and which are implemented by your own 
+system. 
+Consider briefly explaining how security will be tested or validated in Project 2. 
+4.8 Chapter Summary and Evaluation 
+The summary is clear but mostly descriptive. You should add a short evaluation explaining why the design is suitable, 
+scalable, and feasible. 
+You may also reflect briefly on design trade offs, such as using a lightweight AI model instead of deep learning. 
+Strengthen the transition by clearly stating how this design will guide system implementation and testing in the next 
+chapter. 
+GENERAL FORMATTING, LANGUAGE, AND ACADEMIC WRITING FEEDBACK 
+1. Formatting and Structural Consistency 
+There are inconsistencies in heading capitalisation and numbering across chapters. You should ensure that all chapter 
+titles, section headings, and subheadings follow a single consistent format throughout the report. 
+Some sections contain excessive spacing and blank pages, particularly before and after chapter breaks. These should 
+be reviewed and reduced to maintain a clean and professional academic layout. 
+Tables and figures are included, but some are not clearly labelled or referenced in the surrounding text. Every table and 
+f
+igure should have a proper caption and must be explicitly referred to in the explanation. 
+Ensure consistent formatting for tables, including font size, alignment, and border style, so that they appear uniform 
+across all chapters. --------------------------------------- 
+2. Consistency of Terminology 
+Certain technical terms are used inconsistently, for example “AI recommendation engine”, “AI model”, and 
+“recommendation system”. You should select one primary term and use it consistently throughout the report. 
+The naming of entities, classes, and database tables should be consistent across ERD, class diagrams, database 
+schema, and text explanation. Any differences should be intentional and clearly explained. 
+Abbreviations such as AI, UI, ERD, and DFD should be defined at first occurrence and then used consistently without 
+switching between full terms and abbreviations. --------------------------------------- 
+3. Language Use and Clarity 
+The overall language quality is good, but some sentences are too long and complex, which may reduce clarity. You 
+should revise such sentences into shorter and more direct statements. 
+Avoid repeating the same idea across multiple sentences within the same paragraph. Each paragraph should focus on 
+one clear point. 
+Ensure that explanations focus on what and why, not only what the system does. This will improve academic clarity 
+and depth. --------------------------------------- 
+4. Academic Tone and Writing Style 
+The report generally maintains a formal tone, but some sections sound overly descriptive, similar to promotional or 
+user guide content. You should revise these parts to be more analytical and objective. 
+Avoid informal expressions and conversational phrasing. All explanations should be written in a neutral, academic 
+style. 
+When evaluating your own system, avoid making strong claims without justification. Statements should be supported 
+by design reasoning, literature, or clear assumptions. --------------------------------------- 
+5. Use of First Person View 
+The report currently uses first person expressions such as “this project presents” or implied personal ownership. You 
+should minimise first person usage and adopt a third person or passive academic style. 
+For example, instead of focusing on what “the project does”, focus on what “the proposed system is designed to 
+achieve”. 
+Maintain this writing style consistently across all chapters, including abstract, methodology, and system design. --------------------------------------- 
+6. Tense Consistency 
+There are inconsistencies in the use of future tense and present tense, especially when describing system features and 
+processes. 
+Use present tense when describing system design and capabilities. 
+Use future tense only when referring to planned work in Project 2. --------------------------------------- 
+7. Citation and Referencing Style 
+Ensure that all citations follow the latest APA format consistently, including in-text citations and reference list entries. 
+Some references are mentioned generally but not cited at specific points in the text. You should ensure that every 
+referenced idea is properly cited. 
+Check that all references listed are actually cited in the text, and remove any unused references. --------------------------------------- 
+8. Overall Writing Improvement Advice 
+Before final submission, you are strongly advised to proofread the entire report in one complete pass, focusing only on 
+consistency and tone. 
+Reading the report as a whol 
